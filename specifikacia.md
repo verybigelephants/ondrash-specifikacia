@@ -49,7 +49,7 @@ S cenami
     :: frontend 21h-27h (keby robime custom player 23h-29h)
     :: accounting 2h-4h
     
-    830€ - 1050€ (bez custom, keby s nim tak 890€ - 1110€)
+    830€ - 1050€ (bez custom playeru, keby s nim tak 890€ - 1110€)
     
 ## Verzia s rozanimovanym parallaxom na desktope 
 
@@ -57,6 +57,6 @@ S cenami
     :: frontend 27h-33h (keby robime custom player 29h-35h )
     :: accounting 2h-4h
     
-    1010€ - 1230€ (bez custom, keby s nim tak 1070€ - 1290€)
+    1010€ - 1230€ (bez custom playeru, keby s nim tak 1070€ - 1290€)
     
     
